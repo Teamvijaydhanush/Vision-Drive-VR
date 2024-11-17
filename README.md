@@ -48,6 +48,8 @@ VisionDrive AR offers a safer driving experience by integrating computer vision 
 ## Conclusion
 VisionDrive AR is your companion for a safer, smarter driving experience. Join us in revolutionizing road safety with cutting-edge technology.
 
-Output 1 :
+Outputs :
 
 ![Videoshot_20241117_170809](https://github.com/user-attachments/assets/7b7bc0b7-6693-4131-885f-0000da88cf5e)
+
+![Videoshot_20241117_170814](https://github.com/user-attachments/assets/fa93a4dc-1f29-4f8c-81db-3a92ad5c5f47)
