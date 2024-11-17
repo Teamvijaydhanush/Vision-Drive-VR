@@ -1,0 +1,45 @@
+{
+  "os": "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "startedAt": "2024-11-16T05:35:49.995949Z",
+  "args": [
+    "task=detect",
+    "mode=train",
+    "model=yolov8s.pt",
+    "data=//content/drive/MyDrive/outputsfile/INDIAN-TRAFFIC-SIGNBOARDS-1/data.yaml",
+    "epochs=50",
+    "imgsz=640"
+  ],
+  "program": "/usr/local/bin/yolo",
+  "email": "tomj20373@gmail.com",
+  "root": "/content/drive/MyDrive/outputsfile",
+  "host": "3b81be42d09a",
+  "username": "root",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "120942624768",
+      "used": "35327180800"
+    }
+  },
+  "memory": {
+    "total": "13609431040"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

@@ -1,0 +1,216 @@
+_wandb:
+    value:
+        cli_version: 0.18.6
+        m: []
+        python_version: 3.10.12
+        t:
+            "1":
+                - 1
+                - 2
+                - 3
+                - 12
+                - 41
+                - 49
+                - 50
+                - 55
+                - 105
+            "2":
+                - 1
+                - 2
+                - 3
+                - 12
+                - 41
+                - 49
+                - 50
+                - 55
+                - 80
+                - 105
+            "3":
+                - 16
+                - 23
+                - 55
+                - 61
+            "4": 3.10.12
+            "5": 0.18.6
+            "8":
+                - 5
+            "12": 0.18.6
+            "13": linux-x86_64
+agnostic_nms:
+    value: false
+augment:
+    value: false
+batch:
+    value: 16
+box:
+    value: 7.5
+cache:
+    value: false
+close_mosaic:
+    value: 10
+cls:
+    value: 0.5
+conf:
+    value: null
+copy_paste:
+    value: 0
+cos_lr:
+    value: false
+data:
+    value: //content/drive/MyDrive/outputsfile/INDIAN-TRAFFIC-SIGNBOARDS-1/data.yaml
+degrees:
+    value: 0
+deterministic:
+    value: true
+device:
+    value: null
+dfl:
+    value: 1.5
+dnn:
+    value: false
+dropout:
+    value: 0
+dynamic:
+    value: false
+epochs:
+    value: 50
+exist_ok:
+    value: false
+fl_gamma:
+    value: 0
+fliplr:
+    value: 0.5
+flipud:
+    value: 0
+format:
+    value: torchscript
+half:
+    value: false
+hide_conf:
+    value: false
+hide_labels:
+    value: false
+hsv_h:
+    value: 0.015
+hsv_s:
+    value: 0.7
+hsv_v:
+    value: 0.4
+hydra:
+    value: '{''output_subdir'': None, ''run'': {''dir'': ''.''}}'
+image_weights:
+    value: false
+imgsz:
+    value: 640
+int8:
+    value: false
+iou:
+    value: 0.7
+keras:
+    value: false
+label_smoothing:
+    value: 0
+line_thickness:
+    value: 3
+lr0:
+    value: 0.01
+lrf:
+    value: 0.01
+mask_ratio:
+    value: 4
+max_det:
+    value: 300
+mixup:
+    value: 0
+mode:
+    value: train
+model:
+    value: yolov8s.pt
+momentum:
+    value: 0.937
+mosaic:
+    value: 1
+name:
+    value: null
+nbs:
+    value: 64
+nms:
+    value: false
+opset:
+    value: 17
+optimize:
+    value: false
+optimizer:
+    value: SGD
+overlap_mask:
+    value: true
+patience:
+    value: 50
+perspective:
+    value: 0
+plots:
+    value: true
+pretrained:
+    value: false
+project:
+    value: null
+rect:
+    value: false
+resume:
+    value: false
+retina_masks:
+    value: false
+save:
+    value: true
+save_conf:
+    value: false
+save_crop:
+    value: false
+save_dir:
+    value: runs/detect/train
+save_hybrid:
+    value: false
+save_json:
+    value: false
+save_txt:
+    value: false
+scale:
+    value: 0.5
+seed:
+    value: 0
+shear:
+    value: 0
+show:
+    value: false
+simplify:
+    value: false
+single_cls:
+    value: false
+source:
+    value: null
+task:
+    value: detect
+translate:
+    value: 0.1
+v5loader:
+    value: false
+val:
+    value: true
+verbose:
+    value: false
+vid_stride:
+    value: 1
+visualize:
+    value: false
+warmup_bias_lr:
+    value: 0.1
+warmup_epochs:
+    value: 3
+warmup_momentum:
+    value: 0.8
+weight_decay:
+    value: 0.0005
+workers:
+    value: 8
+workspace:
+    value: 4
