@@ -3,7 +3,7 @@
 - **Event**: i.mobilothon 4.0
 
 # visiondrive-AR
-VisionDrive AR integrates computer vision and augmented reality to enhance driving safety. It projects real-time road data, such as traffic signals, hazards, and navigation instructions, directly onto the windshield, helping drivers stay focused while improving situational awareness and reducing accidents.
+VisionDrive AR integrates computer vision and augmented reality to enhance driving safety. It projects real-time road data, such as traffic signals, hazards, and navigation instructions, directly onto the windshield (Heads-Up Display) helping drivers stay focused while improving situational awareness and reducing accidents.
 Here is a sample README for your VisionDrive AR project based on the content provided:
 
 ### Problem Statement
